@@ -1,6 +1,6 @@
 Name:		python-rjsmin
 Version:	1.2.0
-Release:	1
+Release:	2
 Summary:	Javascript Minifier
 License:	Apache-2.0
 Group:		Development/Python
